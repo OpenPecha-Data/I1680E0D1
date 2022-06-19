@@ -1,0 +1,38 @@
+id: I1680E0D1
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T09:50:37.108263'
+last_modified: '2022-06-19T09:50:37.108274'
+parser: null
+source_metadata:
+  title: Autobiography of sNgags chang bSod nams chos phel (1527–1603) of Bru; Lamdre
+    Lobshe, vol. nga, title no. 3
+  author: sngags chang bsod nams chos phel/
+  description: 'Digital version 2.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2013-09-03); unrevised, no thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:rdzong sar khams bye'i lnga rig slob gling / sde dge rdzong sar/ (dzkj)
+  - Editorial process:Mathias Fermer (mf), kun dga' rdo rje/ (Kathmandu) (kun)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/569
+  bases:
+    aa62:
+      title: Autobiography of sNgags chang bSod nams chos phel (1527–1603) of Bru;
+        Lamdre Lobshe, vol. nga, title no. 3
+      order: 1
+      base_file: aa62.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
